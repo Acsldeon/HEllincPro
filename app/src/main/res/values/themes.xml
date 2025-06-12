@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.HEllgreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green_primary</item> <!-- Основной цвет для кнопок и других элементов -->
+        <item name="colorPrimaryVariant">@color/green_dark</item> <!-- Более темный оттенок для статус бара -->
+        <item name="colorOnPrimary">@color/white_text_on_green</item> <!-- Цвет текста на основном цвете (кнопках) -->
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

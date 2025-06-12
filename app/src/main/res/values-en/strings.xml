@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hell Inc pro</string>
+    <string name="theGameOver">Game Over.</string>
+    <string name="setting">Settings</string>
+    <string name="contin">Continue</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="ru">Русский.</string>
+    <string name="en">English</string>
+    <string name="close">Close</string>
+    <string name="mus">Music setting</string>
+    <string name="lang">Language</string>
+
+    <string name="intro_year">1980. An era of unlimited possibilities. A time when humanity looked to the future with daring confidence.</string>
+    <string name="intro_projectGates">The year when scientific breakthroughs surpassed the wildest fantasies... and the most horrific nightmares. Project \'Gates,\' known worldwide as the Large Hadron Collider, considered a mad dream for decades, became a reality.</string>
+    <string name="intro_hellPassage">Scientists at the European Organization for Nuclear and Quantum Research (EONQR) opened a passage. Not into space. Not into a parallel dimension, as we imagined. They opened a passage... to Hell.</string>
+    <string name="intro_businessPotential">Instead of universal panic and horror... the business world saw... potential. Unlimited space. Incredible \'resources.\' The perfect place for expansion.</string>
+    <string name="intro_skyscrapers">Thus, amidst flames and sulfur, skyscrapers began to rise. Concrete and glass giants, inhabited not by demons, but by... middle managers, accountants, and couriers. Hell became the world\'s largest offshore zone.</string>
+    <string name="intro_hellInc">And the main players in this new, infernal business world became corporations. The largest and most influential of them? Of course... Hell Inc – a giant of infernal bureaucracy, stationery supplies for the afterlife, and... well, all sorts of hellish nonsense.</string>
+    <string name="intro_demonsFree">After a decade of exploiting infernal territories, the demons grew tired and broke free. But that\'s no longer your problem. It can be solved later, in about ten years.</string>
+    <string name="intro_yourGoal">Your goal is to work tirelessly, processing every single action of every living and dead soul. For now, of course, you are alive, and for the next 70 years, you will work in anearthly corporation, and then for the rest of your life, in an infernal one. Good luck and congratulations on your employment at Jil Trade!!!</string>
+
+
+    <string name="officeEnterBuilding">You take the business card and enter the office: a monstrous building, two hundred floors up and four hundred down.</string>
+    <string name="officeEnterElevator">You look to the right and see an elevator from which a caveman, a warrior from the Mongol Empire, and a Japanese soldier from World War II emerge, all carrying briefcases and wearing characteristic bracelets typical of long-dead people.</string>
+    <string name="officeGoUpstairs">Turning to the left, you see an elevator leading to the upper floors, you enter it and press the button for the one hundred and twenty-seventh floor.</string>
+    <string name="officeArriveFloor">Arriving on the floor, you see a typical office with one exception: the office stretches for miles in all directions.</string>
+    <string name="officeNeedMap">You look around for your place, realizing that a map is definitely necessary here.</string>
+    <string name="officeMeetNewbieHelper">Suddenly you notice a person approaching you.</string>
+    <string name="officeNewbieHelperDialogue">"Hello, you must be the new employee. Should I give you instructions and show you your place, or can you manage it yourself, which is unlikely?"</string>
+
+
+    <string name="choiceAcceptHelp">Accept Help</string>
+    <string name="acceptHelpDecision">Weighing the pros and cons, you realize that you cannot figure it out on your own, as you remember reading in the brochure that the company building contains over one hundred thirty million offices.</string>
+    <string name="acceptHelpReply">"YES, I wouldn\'t mind some help, it would be silly to get lost on the first day of work."</string>
+    <string name="acceptHelpResponse">"Excellent, that\'s a wise decision. At least a couple of thousand employees get lost and die due to not knowing about office movements."</string>
+    <string name="acceptHelpMovingOffices">"Office movements?"</string>
+    <string name="acceptHelpCharlesIntro">"Yes, yes, this way we can gather groups of people without distracting them from work. I see from your badge that you work in sector 18.22. I\'m from there myself, and I was assigned to meet the newcomer. My name is Charles, nice to meet you."</string>
+    <string name="acceptHelpShakeHands">Charles extended his hand, and you shook it.</string>
+    <string name="acceptHelpWorkplace">Later, after ten minutes of travel on office transport (you were very surprised to learn that every employee is provided with transport to move around the office), you arrived at your workplace: a small, five-square-meter room, neat in appearance with a computer, a printer, and a control panel – the CITS (Digital Information and Transport System).</string>
+    <string name="acceptHelpStartWork">Charles said goodbye, and you got to work.</string>
+
+
+    <string name="choiceDeclineHelp">Decline Help</string>
+    <string name="declineHelpDecision">You weigh the pros and cons, and decide you\'ll figure it out yourself:</string>
+    <string name="declineHelpYourself">"Excuse me, but I\'ll find my own way. I can\'t possibly fail to find my place among a couple of hundred offices, even without a map."</string>
+    <string name="declineHelpManagerReply">"I regret to inform you, but there are only two hundred thousand offices on this floor, and even the most experienced employee wouldn\'t manage without a map."</string>
+    <string name="declineHelpLost">You suddenly freeze in a daze, realizing the enormous size of the office, and after some thought, you decide to ask for help, but the employee has already disappeared, and you didn\'t even notice how you wandered off track while following them.</string>
+    <string name="declineHelpNoResponse">You walk among endless offices, asking for help, but no one answers – everyone is busy with something, but definitelynot with you.</string>
+    <string name="declineHelpPanic">Panic overwhelms you, but suddenly out of the corner of your eye, you spot an elevator. "Victory!" you think, but suddenly one of the office walls begins to move towards you.</string>
+    <string name="declineHelpCrushed">You try to run, but another wall also starts pressing on you. Slowly but surely, you are crushed into a pancake.</string>
+    <string name="declineHelpLastThoughts">Your last thoughts were only of one thing: "I\'ll sue these bastards when I resurrect in Hell again."</string>
+    <string name="declineHelpPancakeEnding">But the laws of the universe were against you: Without a whole body, you will not resurrect, but become merely a spirit, and most likely will be tied to the office that killed you. (Pancake Ending)</string>
+
+
+    <string name="workMonthAssignment">You worked excellently for a whole month, and only one task remained before becoming the best employee on the floor.</string>
+    <string name="workMonthCITSCall">You, as usual, went up to the floor, arrived at your cubicle, greeted Charles as usual, who had become your friend, and sat down at your computer when suddenly a call came in on the CITS:</string>
+    <string name="workMonthBelomoryeContract">"– Contract coordination for the \'Belomorye\' project with representatives of DreamNest company is required."</string>
+    <string name="workMonthQuestion">Upon accepting the task, a question arose: what is Belomorye and what does DreamNest have to do with it, as this very company has been bankrupt for twenty years, having collapsed after the dissolution of the USSR.</string>
+    <string name="workMonthSearchOnline">Of course, you immediately went online to research this issue and stumbled upon a very interesting article:</string>
+    <string name="workMonthArticleDreamnest">"– Dreamnest Company, or the Carnot Research Institute of Quantum Spatial Engineering (Carnot RISQE). The institute was established in 1992, five years before the collapse of the USSR, with the aim of replicating EONQR\'s (European Organization for Nuclear and Quantum Research) success in exploring new spaces.</string>
+    <string name="workMonthArticleBelomorye">In 1997, it was closed after a failed experiment codenamed Belomorye, which destroyed the Caspian Sea and dragged the entire union down with it. Five years later, Carnot RISQE was acquired by a Russian businessman and transformed into the commercial organization Dreamnest. Currently, this company actively collaborates with the monopolist of the infernal exploitation market, Hell Inc, and through intermediaries, and according to rumors, is trying to repeat the Belomorye project."</string>
+    <string name="workMonthPersonalShock">You are in some shock, as forty years ago you lost your position at an Iranian enterprise, because on one terrible day, namely September 7, 1997, Tehran was wiped off the face of the earth, as were dozens of other cities near the Caspian Sea.</string>
+    <string name="workMonthPersonalCatastrophe">You were lucky, as you were at a conference that day when a terrible tremor shook Ankara. An hour later, the whole world learned that Tehran had been destroyed, as had your career, and all your relatives died then.</string>
+    <string name="workMonthChoiceText">After the horrors of the past receded, only one question remained: do you wish to learn about that catastrophe, or forget the past and continue working?</string>
+
+
+    <string name="choiceGoWithCharles">Go with Charles (Forget the past)</string>
+    <string name="goWithCharlesDecision">These are just memories from forty years ago. What was, cannot be changed. You fill out documents, arrange meetings, not touching documents that are not described in the plan. Later, during a break, you meet Charles:</string>
+    <string name="goWithCharlesCharlesGreeting">"– Hey! I see you have a lot of work, but I\'m sure you\'ll manage and finally become the best employee on the floor. Since I already knowyou will be, I suggest we celebrate it five kilometers from the office."</string>
+    <string name="goWithCharlesCharlesRescue">You like this idea very much, but you suddenly remember work and decide to ask Charles for advice. But the lunch break is over, and it\'s time for you to return to work. At the end of the day, without waiting for Charles, you go to the elevator, press the call button, wait for it, already take a step, but suddenly you are grabbed by the shoulder and spun around:</string>
+    <string name="goWithCharlesLiftWarning">"– Open your eyes, can\'t you see the elevator shaft is empty? You could have fallen almost a kilometer and a half down. Would you want such a death?"</string>
+    <string name="goWithCharlesSaved">It was Charles. He saved you from being flattened. You are, of course, in a daze, not understanding how you didn\'t notice the elevator\'s absence, but don\'t worry, there are over a hundred elevators in the office.</string>
+    <string name="goWithCharlesExit">You leave the office with Charles and head to the public transport stop.</string>
+    <string name="goWithCharlesNextDay">After this shocking and traumatic "motivational speech," you return to your room. Fear and despair grip your chest, but sleep does not come. Your consciousness refuses to accept what you saw and the fact that this is now your "job." Morning brings no relief; another endless workday begins.</string>
+    <string name="goWithCharlesStorageEvent">But suddenly Charles stops you: "– I just remembered that there\'s no point in waiting if we can take the company transport, and since I\'ve been working here for a long time, I have the key to the logistics center where we can get a car."</string>
+    <string name="goWithCharlesStorageDeath">You don\'t want to argue with him, so you agree. You turn around and re-enter the company, but you go down to the ground floor. The huge, almost unlit room with hundreds of autonomous trucks full of papers scurrying about frightens you, but you see Charles maneuvering among them, moving as if he\'d been here dozens of times and stolen company cars just as many. You take a step, then another turn, an evasion, but suddenly one misstep, and you face-to-face with the cab of a transport vehicle.</string>
+    <string name="goWithCharlesDeathScene">Your death stops the work of the entire floor, the lights turn on, and your body is taken away by specialized machines. Half an hour later, you are diagnosed with brain death, but you wake up in a completely different place...</string>
+
+
+    <string name="choiceDigDeeper">Dig Deeper (Learn about the catastrophe)</string>
+    <string name="digDeeperInvestigation">You decide to continue your investigation, but first, you needed to coordinate the contracts that arrived via CITS. You opened the documents and began to study them until you stumbled upon a file titled "Elimination of Witnesses, Participants, and Related Persons of Victims."</string>
+    <string name="digDeeperFileFound">The file was not described in the document list, and you would have deleted it if you hadn\'t been a victim yourself. You copied it, completed all your work, scheduled a meeting for tomorrow, when you suddenly remembered the document as you were leaving.</string>
+    <string name="digDeeperCharlesInterruption">You paused, lost in thought, but Charles abruptly called out to you: "– Bro! Why are you frozen, or is some force holding you in this office? We agreed to grab a bite with my acquaintances. Remember Jeff from sector 234.1224 – I want to introduce you to him. So, should I wait for you, or are you staying to become the best employee on the floor? Such matters can wait until tomorrow, can\'t they?"</string>
+    <string name="digDeeperWorkdayEnd">After this shocking and traumatizing "motivational speech," you return to your room. Fear and despair grip your chest, but sleep does not come. Your consciousness refuses to accept what you saw and the fact that this is now your "job." Morning brings no relief; another endless workday begins.</string>
+    <string name="digDeeperSatanMeeting1">You sit down at your workstation and briefly notice that for some reason your office is moving somewhere unknown. You pay no mind to it and find a previously saved document, open it, and begin to read:</string>
+    <string name="digDeeperSatanMeeting2">"– Report on the concealment of the Belomorye incident: Esteemed Mr. S, we are pleased to inform you that the elimination of witnesses is well underway, as is the work to increase your personnel. According to our calculations, over fifteen hundred Jill Trade employees will be eliminated, sent to the Caspian, or will accept our terms and become participants in the experiment. A report with a list of these employees will be provided below."</string>
+    <string name="digDeeperSatanMeeting3">You scroll through the list and somewhere in the middle you find your name, which greatly frightens you. Hundreds of thoughts swirl in your mind: from "This is just someone\'s joke" to "I shouldn\'t have started digging." Of course, you hope it\'s just a silly joke. But these thoughts distract you from work, so you finish only the next day.</string>
+    <string name="digDeeperSatanMeeting4">Getting up from the computer, you notice that your office has gathered into a huge conference hall for about a hundred people. You suddenly understood everything and remembered that you had a meeting in twenty minutes, and began to prepare.</string>
+    <string name="digDeeperSatanMeeting5">Suddenly, as you were setting up the projector, dozens of people entered the hall, among them you recognized a dozen or more of the richest people on the planet, and even Karnadsky – the current owner of Dreamnest, son of the very scientist who once destroyed Tehran and a hundred other cities.</string>
+    <string name="digDeeperSatanMeeting6">Everyone enters, takes their seats, greets each other, you begin your presentation, when suddenly another person enters the hall: a two-meter giant in a black suit with a huge bright red briefcase.</string>
+    <string name="digDeeperSatanMeeting7">You notice a small detail – huge rings are visible on his neck and hands, to which tubes are connected leading to the briefcase. He sits at the table in eerie silence, and you see his face: completely unsuited to his monstrous body, good-natured and even a little chubby. You wait for some reaction, but this person remains silent, expecting you to show the presentation. After the presentation, this person stands up, a strange feeling of anxiety overwhelms you at that moment.</string>
+    <string name="digDeeperSatanMeeting8">"– I thank everyone gathered here for their visit, and personally thank Mr. Office Worker for the excellent presentation, I think it would even be a pity to kill you, but unfortunately, you got into where you shouldn\'t have."</string>
+    <string name="digDeeperSatanMeeting9">Suddenly, security grabs you, and the unknown gentleman continues:</string>
+    <string name="digDeeperSatanMeeting10">"– You shouldn\'t have opened that document, do you think the two greatest companies in the world have no eyes and ears around the globe? Do you think I, the Devil himself, Satan, wouldn\'t know? Well, you made your own choice, you could have just worked here for the rest of your days, but you preferred suffering."</string>
+    <string name="digDeeperSatanMeeting11">Satan opened the briefcase and pulled out a remote control.</string>
+    <string name="digDeeperSatanMeeting12">"– Well, at least you\'ll end up at home, in your native Near-Caspian region."</string>
+    <string name="digDeeperSatanMeeting13">Suddenly, a portal opens beneath you, and you fall straight into Hell...</string>
+
+
+    <string name="rebirthIntro1">You are flying, and your skin is slowly burning, but a new, darker and stronger one is forming in its place. After a few seconds, you land on a dark square.</string>
+    <string name="rebirthIntro2">You look around, and it seems very familiar to you, and you realize: You are at home, although the people around you are certainly not typical residents of Tehran: familiar faces, including great figures known throughout the world as humanity\'s greatest heroes, are scurrying around.</string>
+    <string name="rebirthIntro3">A huge demon, frightening the crowd, brought you out of your shock.</string>
+    <string name="rebirthIntro4">Afterward, he leads you to a strange, unfamiliar building: a colossal forty-story house, a concrete monolith with small, identical, and empty windows, hinting at the absence of life or its suppression.</string>
+    <string name="rebirthIntro5">You are forcibly pushed into a uniform, and suddenly the demon says:</string>
+    <string name="rebirthChoiceText">"– Well, my dear, your right to freedom has been taken away, but I will leave you the right to choose with whom you will live until the end of time. There are two rooms here: either a single one, or one with a most interesting inhabitant. This choice will be your last free choice, so I advise you to think carefully."</string>
+
+
+    <string name="choiceSingleCell">Single Cell</string>
+    <string name="singleCellChosen">You realize that the demon\'s insistence on tales of a cellmate does not bode well, and therefore you consider living alone to be the best choice.</string>
+    <string name="singleCellRoom">You enter the room, and the door slams shut behind you. You look around the room, see a bunk, a small window, and a huge poster, almost covering the entire wall:</string>
+    <string name="singleCellPoster">"– You work for the good of humanity, your eternal service saves billions!!! Work for Hell Inc, work for humanity!!!"</string>
+    <string name="singleCellSleep">You realize you are incredibly tired and lie down to sleep.</string>
+    <string name="singleCellAwaken">As soon as you close your eyes, you awaken to a bright light, the door opens, and suddenly the entire building shakes with a voice:</string>
+    <string name="singleCellMotivationCall">"– Dear employees, everyone is requested to proceed to the square for motivational speeches; attendance is mandatory."</string>
+    <string name="singleCellGoToSquare">You realize you have no choice, so you descend to the square where over a thousand people are gathered, watching a huge stage.</string>
+    <string name="singleCellDemonPresentation">Soon, an ordinary man in handcuffs was brought onto the stage and seated in a chair. Then, from behind the curtains, a demon emerged, holding a strange-looking weapon. The demon pressed a button, and a huge dark beam, as if scorching space itself, began to form, causing terrifying current fluctuations, slowly directed towards the man, simultaneously causing a terrible headache. When the beam reached the man, a horrific scream echoed through the city and then fell silent. Nothing remained of the man...</string>
+    <string name="singleCellIllusion">But wait, what man? There was no one here. The beam was directed nowhere, and nothing else happened. The entire crowd was confused.</string>
+    <string name="singleCellStudyBeam">You are dispersed to work, you are in shock, and suddenly an idea pops into your head: why not study the operation of this beam at work?</string>
+
+    <string name="choiceDoubleCell">Double Cell</string>
+    <string name="storyPhilosopherCellIntro1">You enter the room, and the heavy door slams shut behind you, cutting you off from the outside world.</string>
+    <string name="storyPhilosopherCellIntro2">The room is cramped, barely illuminated by the faint glow of red-hot chains emanating from the walls. The air is heavy with the smell of sulfur, sweat, and despair.</string>
+    <string name="storyPhilosopherCellIntro3">In the corner, a huddled figure sits, chained to the wall by massive but barely visible shackles. They raise their head, and you see an emaciated, yet piercing face, with an unquenchable fire burning in its eyes.</string>
+    <string name="storyPhilosopherCellIntro4">This is your "cellmate," a soul who, despite endless torture, has maintained a sharp, almost insane clarity of mind.</string>
+    <string name="storyPhilosopherCellIntro5">They introduce themselves as "The Philosopher" – one of the first to arrive here after death, and who, from the very beginning, sought to understand the logic of the Infernal system, trying to find meaning in this meaningless existence.</string>
+    <string name="storyPhilosopherRevelation1a">The Philosopher – thin, gaunt, but with burning eyes full of ancient, almost insane knowledge. Their voice – a dry whisper, but every word pierces directly into the soul.</string>
+    <string name="storyPhilosopherRevelation1b">"Hell is not merely punishment, but a carefully designed experiment, the purpose of which is to generate energy through the suffering of souls. Our pain feeds this system, our agony is processed into something that sustains reality itself."</string>
+    <string name="storyPhilosopherRevelation1c">They show you tattoos on their skin – ancient symbols etched into their flesh, which, according to them, are part of the Zadran scheme that governs this place.</string>
+    <string name="storyPhilosopherRevelation1d">"We are not victims," they rasp, "we are fuel."</string>
+    <string name="storyPhilosopherRevelation2a">For years, they have been gathering information, communicating with other long-term residents of Hell who have survived entire cycles of reincarnation, and claim there is a way to overload the system, cause a surge, and possibly collapse it.</string>
+    <string name="storyPhilosopherRevelation2b">They speak of the Energy Gates – the heart of the Infernal Regime, where streams of suffering and karmic energy flow from all circles of Hell. If they are destroyed, or redirected, Hell can be overthrown, and souls – freed.</string>
+    <string name="storyPhilosopherRevelation2c">But the demons do not sleep. They possess inhuman strength, knowledge of your deepest fears and weaknesses. Their magic can burn the soul, and their numbers are infinite.</string>
+    <string name="storyPhilosopherRevelation3">The Philosopher says you need to find an ancient weapon or artifact capable of resisting them, or gather an army, capable of assaulting the Energy Gates.</string>
+    <string name="storyPhilosopherRevelation4">Rumors speak of the Hammer of Damnation, hidden deep within the hottest circle, which, according to legend, can shatter reality itself, opening the way to freedom or... to complete annihilation.</string>
+    <string name="storyPhilosopherPlan1">The Plan: Together with the Philosopher, you devise a rebellion plan. They are confident that the key to success is not only strength, but also the knowledge you brought from the living world – knowledge of hidden messages and Zadran.</string>
+    <string name="storyPhilosopherPlan2">Your memory of the earthly world, of searching, of the meaning of art, becomes your most valuable asset, giving you a unique understanding of the hidden laws of Hell. The Philosopher sees in you not just a cellmate, but a chance for true change, for the salvation of all prisoners.</string>
+    <string name="storyPhilosopherChoiceText">You must decide how to strike the Infernal Regime: seek a legendary artifact capable of breaking through the Gates defenses, or gather other prisoners for an open revolt to flood the Gates with the energy of rage and despair.</string>
+
+
+    <string name="choiceAttackDirectly">Organize a direct assault</string>
+    <string name="attackDirectlyGatherArmy1">You, using your eloquence and knowledge of the system that you share, help the Philosopher gather an army of desperate souls.</string>
+    <string name="attackDirectlyGatherArmy2">Your words and his arguments ignite a spark of hope in the hearts of the tormented, transforming their despair into rage. You convince them that the only path to freedom is through blood and fire, that the sacrifice will be great, but the reward is worth it.</string>
+    <string name="attackDirectlyTrain">You begin training, using any available means – broken stones, red-hot chains, even your own bodies – to create a semblance of a combat unit capable of resisting demons. You gather a desperate army of hundreds of souls who, like you, refuse to submit to eternal torment. Your words and the Philosopher\'s wisdom, who, despite his wounds, becomes a symbol of hope and courage, ignite a spark of resistance in the hearts of the tormented. You convince them that the only path to freedom is through blood and fire, that the sacrifice will be great, but the reward is eternity, unattainable for demons. You begin training, using any available means – broken stones, red-hot chains, even your own bodies – to create a semblance of a combat unit capable of resisting demons. Days pass in fierce clashes with lower demons who patrol your level.</string>
+    <string name="attackDirectlyBattle1">You lead them into battle against superior demonic forces. The first clashes are a bloody massacre, where souls, driven by rage and despair, confront demonic power. The walls of Hell tremble with their cries and fury, with the screech of chains and the clang of claws, with the roar of battle echoing through all circles.</string>
+    <string name="attackDirectlyBattle2">You break through legions of lower demons, overcome fiery pits filled with boiling lava, and cursed labyrinths of twisted bodies, leaving behind mountains of bodies – both demonic and your own, but every fallen warrior of Hell is a step towards freedom.</string>
+    <string name="attackDirectlyArchdemons">But the Archdemons – the rulers of Hell – are not so simple. They come out to meet your army; their power is overwhelming, and their magic can burn souls, turning them to ash. Your army thins, but you continue to move forward, led by the Philosopher, who, with his knowledge of Zadran and the hidden energy flows of Hell, foresees the demons\' weaknesses, showing you a path that would seem impossible.</string>
+    <string name="attackDirectlyGates">You realize that this is a suicidal attack, but it is the only chance for freedom, the last roll of the dice in this eternal game. Finally, you reach the Energy Gates, pulsating with dark energy like Hell\'s huge, beating heart, surrounded by the last, most powerful defenders – the Archdemons\' personal guard. Now everything depends on whether you can break through the defenses and reach the heart of the system.</string>
+    <string name="attackDirectlyPhilosopherSacrifice">The Philosopher, bleeding from numerous wounds received in battle, points you to a secret passage he has been looking for for years, sacrificing himself to distract the most powerful demons.</string>
+    <string name="attackDirectlyChoiceText">What to do?</string>
+
+    <string name="choiceBreakThroughGates">Break through the Energy Gates at all costs</string>
+    <string name="breakThroughGatesEnding1">You launch into a final, desperate attack, sacrificing yourself and the remnants of your army to reach the Gates and destroy them.</string>
+    <string name="breakThroughGatesEnding2">You see the Philosopher fall, his last words, barely audible through the din of battle, echoing in your mind: "Freedom...". You feel his soul, his knowledge, his will pouring into you, giving you a final, inhuman strength.</string>
+    <string name="breakThroughGatesEnding3">You break through the barriers created by demons and rush directly into the Gates, releasing all the accumulated energy of rage and suffering. A flash of light... and then silence.</string>
+
+    <string name="choiceSeekHammer">Seek the Hammer of Damnation</string>
+    <string name="seekHammerJourney1">You embark on a dangerous journey through the most terrifying circles of Hell to find a legendary weapon capable of crushing the Infernal Regime.</string>
+    <string name="seekHammerJourney2">The Philosopher, despite his weakness and confinement, helps you with advice and ancient maps that he scratched on the cell walls and gave you before your departure, when you were taken from the cell.</string>
+    <string name="seekHammerJourney3">He tells you about secret paths, traps, and the weaknesses of Archdemons, which he studied for centuries, analyzing their behavior and sources of power. This path is full of traps, ancient demons, and deadly temptations, but the Philosopher assures that the Hammer is the only chance for real victory, capable of breaking the system forever.</string>
+    <string name="seekHammerNightmare">Your journey through Hell\'s Hell is a true nightmare, surpassing all your most terrible earthly nightmares. Under the mental guidance of the Philosopher, who, while in his cell, mentally guides you through the maps, you penetrate the deepest and most ancient layers of Hell.</string>
+    <string name="seekHammerChallenge">Every step on this cursed land is a trial. You see souls tormented by the most sophisticated methods: bodies transformed into living torture mechanisms, minds trapped in endless loops of despair, and souls dissolved in acid lakes or burned in eternal flames.</string>
+    <string name="seekHammerAncientDemons">You meet ancient demons whose form is barely discernible in clouds of sulfuric smoke, who remember the fall of entire civilizations and speak languages forgotten millions of years ago. You lose part of your humanity, but gain incredible resilience, cruelty, and cold determination necessary for survival in this world.</string>
+    <string name="seekHammerSurvivalSkills">You learn to survive in absolute despair, using not only strength, but also cunning, knowledge transmitted by the Philosopher, and even scraps of information about Zadran to anticipate traps and find vulnerabilities in demons, using their own energies against themselves.</string>
+    <string name="seekHammerMentalLink">The Philosopher, though exhausted, his mind is sharp as a blade, he guides you through nightmares, explaining every symbol, every trap, using the mental connection you established with him.</string>
+    <string name="seekHammerHammerNature">You realize that the **"Hammer of Damnation"** is not just a weapon, but an ancient artifact created to break spatio-temporal connections, perhaps so that someone could escape this endless cycle of suffering. Perhaps it was one of the first attempts to control Zadran or destroy it, created even before it was sought on Earth.</string>
+    <string name="seekHammerFindHammer">Finally, after overcoming the last obstacles, passing through labyrinths of living flesh and rivers of lava, in the very center of the Sixth Circle, in a river of molten metal erupting from cracks in the earth, you find the Hammer. It does not lie, but hovers above the incandescent surface, as if waiting for you. It glows with a faint but powerful light emanating from its deeply etched runes, and its handle, made of ancient demon bone, burns your hand with a scorching cold that penetrates to your very brain.</string>
+    <string name="seekHammerArchdemonAttack">At the same moment, higher demons, **Archdemons**, guardians of the Hammer, attack you, having waited for centuries for someone who would dare to lift it. Their numbers seem infinite, their magic falls upon you, trying to crush your soul, to swallow your will.</string>
+    <string name="seekHammerFinalBattle">This will be a battle to the death, where every move could be your last, where not only your soul, but the fate of all Hell is at stake. The Philosopher, bleeding from numerous wounds received in battle, exhausts his last strength, creating a powerful mental barrier that distracts one of the Archdemons, giving you a decisive, last chance to lift the Hammer and use it. His voice echoes in your head: "Now! Or never!"</string>
+    <string name="seekHammerChoiceText">How to use the Hammer?</string>
+
+    <string name="choiceUseHammerToDestroy">Use the Hammer to destroy the Energy Gates</string>
+    <string name="useHammerDestroy1">You lift the Hammer, and its monstrous, ancient power flows into you, overflowing your body and mind to the limit. You feel the ancient energies of Hell responding to its call, as if reality around you begins to distort.</string><string name="useHammerDestroy2">You point the Hammer at the Energy Gates, which seem to pulsate with life, absorbing light and hope, trying to tear them apart like a piece of paper. A deafening roar, shaking the very foundation of Hell, follows your strike.</string>
+    <string name="useHammerDestroy3">Entire sections of the Infernal landscape begin to crack and fall into the abyss; demons scream in pain, their forms distort. This could lead to a chain reaction capable of destroying not only Hell but also other dimensions, or simply freeing the imprisoned souls. The fate of millions is in your hands.</string>
+
+    <string name="choiceUseHammerToOpenPortal">Use the Hammer to open a portal to another world</string>
+    <string name="useHammerOpenPortal1">You look at the raging Energy Gates and realize that destroying the entire system of Hell is too dangerous and unpredictable, it could cause a catastrophe.</string>
+    <string name="useHammerOpenPortal2">You think only of saving your soul, you look at the Philosopher, who suddenly appeared next to you, as he sharply transforms into Colossus, grabs the Hammer, and strikes you with a powerful blow, breaking you.</string>
+    <string name="useHammerOpenPortal3">"– Well, here we meet again, friend, and your fate is once again tragic; you thought you would escape, that you would defeat me, but no, I was by your side from the very beginning; every action you took was planned by me from the start, but you failed the test. Now your fate is death."</string>
+    <string name="useHammerOpenPortal4">You realize you are evaporating; the last emotion you feel is rage, a rage so great that after your death, you join the army of elite demons and participate in the conquest and destruction of Earth.</string>
+
+
+    <string name="catastrophicFuture1">Hundreds of years pass. The year is 2245. Humanity has not recovered from this catastrophe; all known governments have collapsed, but companies have taken their place.</string>
+    <string name="catastrophicFuture2">Now the last people are forced to wear rings that stabilize their position in the new dimension. The price of their work is colossal – thousands have become living power plants. Their agony is the only thing that sustains dying humanity.</string>
+    <string name="catastrophicFuture3">A strange-looking, tall man with his familiar briefcase was flying somewhere. It was clear that he had become quite gaunt and somewhat troubled. He looked out the window, and a view of tons of lava stretching everywhere opened before him. Hundreds of years ago, this place was called the Pacific Ocean.</string>
+    <string name="catastrophicFuture4">A winged bird with the Hell Inc logo landed on a small island. The man got off the plane and slowly walked into a huge building. There he approached a closed door, slowly opened it, and saw you, quite worn out, without your lower body.</string>
+    <string name="catastrophicFuture5">You open your eyes and see the man; fear grips you, as you cannot feel your legs or most of your body. The man sits down on a chair and begins his monologue:</string>
+    <string name="catastrophicFuture6">"– Greetings, friend, even after a hundred years, I have met you again. Well, what a person you are – you ruined your own life and dragged the whole Earth down with you. Your body was difficult to find, but figuring out how to return your soul to your body was not a problem for a hundred years of effort. But now you will pay for everything; you see, human agony in this new world is the best source of energy. Some laws of the former Hell will not lie to you. And in this new world, no one can exist without stabilizing rings. So you will become a new source of energy. It\'s strange to hear this from Satan, but you will atone for your sins, revive the world, my world. In these terrible conditions, I am the sole ruler of the world."</string>
+    <string name="catastrophicFuture7">You are in complete shock, but you have nothing to say, and no means to. Satan leaves, leaving you to suffer. Soon your suffering will revive the world, but this world will never be the same.</string>
+
+
+    <string name="hellArchiveIntroA">After this shocking and traumatizing "motivational speech," you return to your room. Fear and despair grip your chest, but sleep does not come. Your consciousness refuses to accept what you saw and the fact that this is now your "job." Morning brings no relief; another endless workday begins.</string>
+    <string name="hellArchiveIntroB">You are a soul chained to a desk in Hell\'s vast, endless archive. Each day is identical to the last: you sort countless scrolls of recorded sins, fill out electronic forms, track the routes of souls destined for various circles and levels of punishment. The rustling of papers and the monotonous scratch of quills are the only background to your endless routine.</string>
+    <string name="hellArchiveIntroC">Your colleagues are pale, exhausted entities; their eyes are empty, and their faces express no emotion. They have long forgotten their earthly names, their dreams, and hopes. They merely function flawlessly, as part of a vast, soulless, invisible machine.</string>
+    <string name="hellArchiveIntroD">You feel this monotony slowly but surely eroding your personality, your memories, your individuality. But you refuse to forget. You cling to every scrap of memory of your past, your goals, the mysteries of the past, and Zadran. These thoughts are your last stronghold against complete dissolution.</string>
+    <string name="hellArchiveAnomalyA">As you continue your monotonous work, peering into endless streams of data, you begin to notice strange, recurring anomalies in the documents and reports.</string>
+    <string name="hellArchiveAnomalyB">Some scrolls contain symbols suspiciously resembling fractals from the works of that very artist you sought on Earth. In karma distribution reports, numerical sequences appear that are familiar to you from the bits of information you managed to gather about Zadran before your death.</string>
+    <string name="hellArchiveAnomalyC">Hell is not merely a place of punishment or an afterlife governed by angry gods, but a colossal, perfectly calibrated **soul processing system**, managed by some higher, faceless entities no one has ever seen.</string>
+    <string name="hellArchiveAnomalyD">This system, as you begin to understand, feeds on suffering and despair to maintain its order and replenish certain energy reserves which may be used to sustain reality itself or even connect with other dimensions.</string>
+    <string name="hellArchiveAnomalyE">Perhaps this very system is the true, global form of what was called Zadran – not an AI, but a cosmic bureaucratic apparatus using souls as an eternal resource.</string>
+    <string name="hellArchiveChoiceText">What will you do?</string>
+
+
+    <string name="choiceSubmitSystem">Submit and become part of the system</string>
+    <string name="submitSystemEnding1">You feel your resistance fading. The daily monotony, hopelessness, and lack of external stimuli slowly but surely break your will.</string>
+    <string name="submitSystemEnding2">Your memories of the earthly world grow dim, turning into indistinguishable shadows. You stop asking questions; your movements become mechanical, your thoughts empty.</string>
+    <string name="submitSystemEnding3">You begin to find a kind of peace in absolute hopelessness and predictability. You become the ideal clerk, asking no questions, flawlessly performing your functions, one of many faceless appendages of Hell\'s endless bureaucracy.</string>
+    <string name="submitSystemEnding4">Your destiny is eternal existence as an nameless shadow, unaware even of its own servitude.</string>
+
+    <string name="choiceSeekGlitch">Seek a glitch in Hell system</string>
+    <string name="seekGlitchInvestigation1">Your secret investigation deepens, becoming increasingly dangerous. You\'ve learned to skillfully bypass internal checks, masking your activities as regular work, and intercepting unaccounted data that accidentally or intentionally (who knows?) slips past the central system.</string>
+    <string name="seekGlitchInvestigation2">You discover that glitches in Hell\'s system are not just errors, but the result of someone\'s **interference**.</string>
+    <string name="seekGlitchSoulsArtist1">You find records of lost souls who escaped the reprocessing cycle. And these souls, you realize with horror, are those who, in their earthly lives, tried to interact with infernal technologies.</string>
+    <string name="seekGlitchSoulsArtist2">The artist you sought on Earth may have been one of them – for their methods and symbols repeat in these glitches, like signals left for you.</string>
+    <string name="seekGlitchSoulsArtist3">These glitches are, in essence, residual bugs from their attempts to recode Hell system, which they left as a kind of Easter eggs for those who follow in their footsteps.</string>
+    <string name="seekGlitchProtocol57_1">In one of the dustiest and most abandoned archives, where no one seemed to have looked for centuries and where the air is heavy with thousands of years of misery, you find an ancient, decayed tome, hidden behind a false wall of scrolls.</string>
+    <string name="seekGlitchProtocol57_2">Its pages are covered with a thick layer of dust and oblivion, but the inscriptions on them glow with a faint, otherworldly light, like embers of smoldering hope.</string>
+    <string name="seekGlitchProtocol57_3">It contains records of a certain **"Protocol 57"** – a plan, an instruction to bypass the system, created, perhaps, by that very artist or one of their followers, already within Hell.</string>
+    <string name="seekGlitchProtocol57_4">It describes a way to switch consciousness from one dimension to another, using resonant frequencies generated by human torments. These frequencies once formed the basis of mechanisms for restraining entities in one world or another – the red rings.</string>
+    <string name="seekGlitchProtocol57_5">The Protocol explains how to use these resonances to create temporary tears in the matrix of Infernal bureaucracy, allowing one to slip out of the system, much like water seeping through cracks.</string>
+    <string name="seekGlitchProtocol57_6">The artist likely knew this – they tried not just to hide, but to find a loophole out of reality itself. Now you hold the key to a possible escape, but it could also be the key to complete annihilation if you make the wrong choice.</string>
+    <string name="seekGlitchChoiceText">How to use Protocol 57?</string>
+
+    <!-- Choice after Protocol 57 -->  <string name="choiceRiskActivateProtocol">Risk and activate protocol</string>
+    <string name="riskActivateProtocol1">You decide to take the risk and activate the protocol. You need to find a specific location in this boundless office where the soul streams are most vulnerable, where the boundaries between dimensions are thinned, where the energies of Hell and your world intersect.</string>
+    <string name="riskActivateProtocol2">You choose the busiest crossroads of information flows – a place where billions of soul data converge at a central node before being sent for processing.</string>
+    <string name="riskActivateProtocol3">You use the formula found in the protocol to create a powerful mental resonance, focusing all your will on the transition.</string>
+    <string name="riskActivateProtocol4">The sensation that time around you slows down, then accelerates to dizzying speed. The office walls blur into vague, shimmering patches of light and shadow; sounds turn into an indistinguishable hum.</string>
+    <string name="riskActivateProtocol5">You feel your consciousness detaching from the physical shell of the clerk in Hell, and you fly through a tunnel of light and noise, similar to those described in near-death experiences. This is your last desperate attempt, risking being permanently erased or ending up in an even worse place than Hell.</string>
+    <string name="riskActivateProtocol6">You lose consciousness and awaken again in a strange building, lying on a bed. Before you stands a strange, two-meter tall person with odd rings on their hands and neck, from which tubes extend, leading to a strange crimson briefcase.</string>
+    <string name="riskActivateProtocol7">Suddenly, this person points a revolver at you and pulls the trigger. What will be the first thing that comes to your mind?</string>
+
+    <string name="choiceExposeHellSystem">Expose Hell\'s system</string>
+    <string name="exposeHellSystem1">You decide not to flee, but to use "Protocol 57" to blow up the system from within, cause chaos, free souls, or at least sow the seeds of rebellion. This will require immense self-sacrifice, as you risk being destroyed.</string>
+    <string name="exposeHellSystem2">You modify the protocol so that it does not transfer your consciousness, but generates destabilizing frequencies directed at the central nodes of the Infernal bureaucracy – the merging points of soul data and their karma.</string>
+    <string name="exposeHellSystem3">You choose the most vulnerable spot – the main archive server, where records of all souls, their sufferings, and destinies are stored. Activation occurs at the main archive, where the karma of billions of souls is stored.</string>
+    <string name="exposeHellSystem4">You feel your mental energy pouring into the tome, transforming it into a generator of chaos. Signals scatter throughout the network, causing disruptions in the work of every clerk, every demonic station.</string>
+    <string name="exposeHellSystem5">You think you have won, but suddenly a question arises: "Why is it so easy, and if it is so easy, why has only one person been able to do it?". Suddenly, a terrible thought enters your mind: it\'s a trap!!!</string>
+    <string name="exposeHellSystem6">After this thought, you realize what a mistake you have made; you have destroyed the system and ruined millions of lives. Slowly but surely, everything around you melts, turning into an infernal fire stream that engulfs everything, carrying away hundreds of people.</string>
+    <string name="exposeHellSystem7">Carried by the stream of lava, you notice how the layer of Hell\'s crust slowly collapses, and the real world falls onto the infernal city. You perish in this stream and will never resurrect, for Hell is destroyed and there is nowhere to resurrect. You find eternal peace, but at what cost – at the cost of hundreds of lives.</string>
+
+
+    <string name="afterGunshotLucky">Fortunately, the holster was empty; you were lucky, but you are still in a state of slight shock.</string>
+    <string name="afterGunshotPassed">"– Well, you passed the test. Come with me, you have much to tell."</string>
+    <string name="afterGunshotPuzzle">You walk down the corridor, listening to Colossus\'s stories about paradise, the Belomorye project, and the puzzle slowly begins to piece itself together: the Caspian incident was supposed to send everyone to paradise – a newly created dimension, but something went wrong.</string>
+    <string name="afterGunshotParadisePurpose">"– Paradise was created for the elite – world masters, geniuses, and people like you – fighters against the system. My friends from DreamNest and I are forging a new history, and various justice fighters are hindering us. Therefore, those who dig deeper die and then die in Hell. I give you a chance to become part of the new world, either as an ordinary inhabitant or as a creator. But if you refuse, I will erase you from reality and continue my search."</string>
+    <string name="afterGunshotChoiceText">What do you choose?</string>
+
+
+    <string name="choiceAnger">Anger</string>
+    <string name="angerEndingAction">Suddenly, intense rage overwhelms you. You sharply shake your head, knock the pistol away, and quickly rise from the bed, but the strange man swiftly pulls out a second pistol and pulls the trigger.</string>
+    <string name="angerEndingConsequence">You realize you are evaporating, the last emotion you feel is rage, a rage so great that after your death, you join the army of elite demons and participate in the conquest and destruction of Earth.</string>
+
+
+    <string name="choiceRegret">Regret</string>
+    <string name="regretEndingThought">You regret going against the system and understand you deserve this, and what\'s the point of panicking, because if we\'re in Hell, you\'ll most likely just wake up at home. You hear a gunshot.</string>
+    <string name="regretEndingShot">And suddenly – a gunshot.</string>
+    <string name="regretEndingPain">Terrible pain pierces you as if someone is simultaneously piercing your eyes and puncturing your ribs. Slowly, you notice yourself beginning to dissolve, but you don\'t see a bullet hole. The shot was fired at a strange device connected to your wrist rings.</string>
+    <string name="regretEndingDissolve">You slowly dissolve and die forever.</string>
+    <string name="regretEndingDialogue1">"– In paradise, one cannot die, but you surprised me."</string>
+    <string name="regretEndingDialogue2">The strange man leaves the room, walks down the corridor, enters his office, and turns on his computer.</string>
+    <string name="regretEndingDialogue3">"– Dear friend, the only one who managed to break into paradise was accidentally killed by me. I think we\'ll need to simplify the system hack. The first part of the plan was unsuccessful, but I will gladly continue the implementation of the Belomorye project."</string>
+    <string name="regretEndingDialogue4">Later, this strange man logs into the system under the name "Philosopher"...</string>
+
+
+    <string name="choiceBeResident">Become an ordinary resident</string>
+    <string name="beResidentDialogue1">"– I cannot judge you, my friend, many choose this path; here, your villa and a hundred workers await you, but do not fear their appearance – work on paradise is still ongoing."</string>
+    <string name="beResidentDialogue2">The strange man releases you.</string>
+    <string name="beResidentLife">You walk through streets of enormous villas; the wealthiest people in the world look at you, greeting you kindly and asking how you got here.</string>
+    <string name="beResidentHomeNews">Tired of socializing, as evening approaches, you find your home – a vast, fully glassed structure filled with exquisite works of art. You pour yourself some tea with milk, go to the television, and turn on the news.</string>
+    <string name="beResidentNewsReport">"– Urgent announcement: the UN Security Council informs of the start of a nuclear conflict; no state admits its guilt. According to our calculations, over ten billion people have already died. It is also reported that hordes of demons are kidnapping people and burning infernal cities in Hellish territory. It is strongly advised to stock up on food and find shelter, may God help you..."</string>
+    <string name="beResidentNuclear">A nuclear mushroom cloud appeared over the UN Parliament in New York. Now you see only a white screen.</string>
+    <string name="beResidentBelomorye">"– Belomorye," a voice whispered from somewhere.</string>
+    <string name="beResidentSatanReveal1">You hear a strange voice behind you. You turn around, slowly understanding what the voice meant. Turning fully, you see the tall man with the same crimson briefcase.</string>
+    <string name="beResidentSatanReveal2">"– You chose this path, mister. The work of paradise is provided by thousands of souls; every ring on every hand works because twenty million turn wheels in Hell. Accept it, you are now part of the infernal world, the world of the elite, the world of Satan\'s friends. I think it\'s time you understood that I am Satan himself, the lord of Hell; I created this world only so that the most greedy people in the world would drown in pleasure while others suffered eternally."</string>
+    <string name="beResidentSatanReveal3">You fall to your knees; you have lost; your hopes are false. All that remains is to submit and live on, while your conscience devours you eternally.</string>
+
+
+    <string name="choiceBeCreator">Become a creator</string>
+    <string name="beCreatorDialogue1">"– An interesting choice, of course, but little time remains until the great end."</string>
+    <string name="beCreatorWorkplace">You walk down the corridor and enter a room very similar to your office, where a solitary computer and your familiar CITS system stand.</string>
+    <string name="beCreatorNewJob">You sit down at the computer and see the first request to search for a person in an infernal prison. You log into the system under the name "Philosopher" and begin your new work.</string>
+    <string name="beCreatorElite">Thus, you work day and night for the good of paradise, slowly but surely embracing the idea. Therefore, when the nuclear war began, you accepted it as a matter of course, for you had long since become part of Hell\'s elite and a friend of Satan himself.</string>
+
+</resources>
